@@ -7,14 +7,16 @@ int main(){
     int soma
 
 //saida do valor
-printf ("digite o valor a");
+print ("digite o valor_a");
 scanf ("&d",&valor_a);
 
-printf ("digite o valor b");
+print ("digite o valor_b");
 scanf ("%d", &valor_b);
 
-printf ("digite o valor c");
+print ("digite o valor_c");
 scanf ("%d", &valor_c);
+
+resultado = (valor_a + valor_b + valor_c)  / 3;
 return 0;
 
 }
