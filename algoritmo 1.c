@@ -7,7 +7,7 @@ int main(){
     int soma
 
 //saida do valor
-print ("digite o valor_a");
+printf ("digite o valor_a");
 scanf ("&d",&valor_a);
 
 print ("digite o valor_b");
