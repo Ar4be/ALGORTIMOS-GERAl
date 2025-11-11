@@ -1,1 +1,1 @@
-idade
+sizeof(pessoas[i].nome)
